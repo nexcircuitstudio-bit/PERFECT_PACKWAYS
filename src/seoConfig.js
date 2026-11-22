@@ -1,4 +1,4 @@
-export const SITE_ORIGIN = 'https://ppworks-wgnvfv3j.manus.space';
+export const SITE_ORIGIN = 'https://www.perfectpackways.com';
 export const SITE_NAME = 'Perfect Packways';
 export const SOCIAL_IMAGE = `${SITE_ORIGIN}/homepage_image.webp`;
 
