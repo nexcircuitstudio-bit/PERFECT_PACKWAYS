@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://ppworks-wgnvfv3j.manus.space/sitemap.xml
