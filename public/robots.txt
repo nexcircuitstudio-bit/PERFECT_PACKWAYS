@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://ppworks-wgnvfv3j.manus.space/sitemap.xml
+Sitemap: https://www.perfectpackways.com/sitemap.xml
