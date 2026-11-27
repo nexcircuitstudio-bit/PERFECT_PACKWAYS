@@ -6,12 +6,12 @@ export const seoPages = [
   {
     path: '/',
     title: 'Perfect Packways | Packers and Movers in Goa',
-    description: 'Perfect Packways provides reliable packers and movers services in Goa, including household shifting, office relocation, furniture packing and interstate moving with safe handling.',
-    heading: 'Move what matters.',
-    eyebrow: 'Packers & movers · Porvorim, Goa',
+    description: 'Looking for reliable packers and movers in Goa? Perfect Packways offers household shifting, villa relocation, office moving, furniture packing and vehicle transportation with careful handling.',
+    heading: 'Packers and Movers in Goa',
+    eyebrow: 'Reliable Packing & Moving Services · Porvorim, Goa',
     paragraphs: [
-      'Premium packing, shifting, transportation, and storage for homes, teams, and the journeys in between.',
-      'Perfect Packways lists home shifting, villa shifting, car and bike transportation, office shifting, commercial shifting, and godown storage.'
+      'Perfect Packways provides professional packing and moving services in Goa, helping individuals and families relocate their homes with careful packing, organized loading and reliable transportation.',
+      'Our services include home shifting, villa relocation, office shifting, commercial moving, car and bike transportation, and storage solutions. Contact our team to discuss your moving requirements.'
     ],
     linkLabel: 'Plan your move',
     linkHref: '/contact'
