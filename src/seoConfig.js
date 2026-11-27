@@ -5,8 +5,8 @@ export const SOCIAL_IMAGE = `${SITE_ORIGIN}/homepage_image.webp`;
 export const seoPages = [
   {
     path: '/',
-    title: 'Perfect Packways | Packers & Movers, Packing & Relocation',
-    description: 'Perfect Packways offers professional packing, household shifting, interstate relocation and moving services with safe handling and reliable delivery.',
+    title: 'Perfect Packways | Packers and Movers in Goa',
+    description: 'Perfect Packways provides reliable packers and movers services in Goa, including household shifting, office relocation, furniture packing and interstate moving with safe handling.',
     heading: 'Move what matters.',
     eyebrow: 'Packers & movers · Porvorim, Goa',
     paragraphs: [
